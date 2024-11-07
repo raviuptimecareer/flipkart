@@ -1,3 +1,3 @@
-hi iam in development branch
+hi iam in master branch
 it contains deployment scripts
 thanks
