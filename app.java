@@ -1,0 +1,1 @@
+it contains application info
